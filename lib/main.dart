@@ -58,7 +58,7 @@ class XylophoneApp extends StatelessWidget {
               color: Colors.white,
               letterSpacing: 2.0,
               fontFamily: 'Lobster',
-              fontSize: 40.0,
+              fontSize: 30.0,
               fontWeight: FontWeight.bold,
             ),
           ),
